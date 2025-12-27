@@ -1,0 +1,16 @@
+# MLflow
+mlruns/
+
+# Keras Tuner
+my_dir/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Sistema
+.DS_Store
+Thumbs.db
