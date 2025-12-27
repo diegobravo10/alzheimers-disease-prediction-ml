@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/user/OneDrive/Documentos/GitHub/alzheimer-disease-prediction/bayesian-network/mlruns/424314998029015309/8b66d7ce31b843d0973200fc31259d94/artifacts
+end_time: 1766794850895
+entry_point_name: ''
+experiment_id: '424314998029015309'
+lifecycle_stage: active
+run_id: 8b66d7ce31b843d0973200fc31259d94
+run_name: NN_FineTuning
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766794847111
+status: 3
+tags: []
+user_id: user

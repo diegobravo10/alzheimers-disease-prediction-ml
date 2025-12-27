@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/user/OneDrive/Documentos/GitHub/alzheimer-disease-prediction/bayesian-network/mlruns/424314998029015309/b047b0f2c5624a739e184d40cba4e615/artifacts
+end_time: 1766793716898
+entry_point_name: ''
+experiment_id: '424314998029015309'
+lifecycle_stage: active
+run_id: b047b0f2c5624a739e184d40cba4e615
+run_name: nebulous-conch-891
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766793716825
+status: 3
+tags: []
+user_id: user

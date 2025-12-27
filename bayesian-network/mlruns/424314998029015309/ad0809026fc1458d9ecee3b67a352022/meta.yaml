@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/user/OneDrive/Documentos/GitHub/alzheimer-disease-prediction/bayesian-network/mlruns/424314998029015309/ad0809026fc1458d9ecee3b67a352022/artifacts
+deleted_time: 1766792773314
+end_time: 1766781361717
+entry_point_name: ''
+experiment_id: '424314998029015309'
+lifecycle_stage: deleted
+run_id: ad0809026fc1458d9ecee3b67a352022
+run_name: persistent-fish-831
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766781361644
+status: 3
+tags: []
+user_id: user

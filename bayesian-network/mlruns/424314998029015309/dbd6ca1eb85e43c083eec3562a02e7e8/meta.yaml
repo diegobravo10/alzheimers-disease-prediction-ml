@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/user/OneDrive/Documentos/GitHub/alzheimer-disease-prediction/bayesian-network/mlruns/424314998029015309/dbd6ca1eb85e43c083eec3562a02e7e8/artifacts
+end_time: 1766793718167
+entry_point_name: ''
+experiment_id: '424314998029015309'
+lifecycle_stage: active
+run_id: dbd6ca1eb85e43c083eec3562a02e7e8
+run_name: blushing-ram-690
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766793718094
+status: 3
+tags: []
+user_id: user

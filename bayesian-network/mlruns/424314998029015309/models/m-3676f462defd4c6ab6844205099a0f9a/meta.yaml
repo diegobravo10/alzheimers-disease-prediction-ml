@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/user/OneDrive/Documentos/GitHub/alzheimer-disease-prediction/bayesian-network/mlruns/424314998029015309/models/m-3676f462defd4c6ab6844205099a0f9a/artifacts
+creation_timestamp: 1766793720396
+experiment_id: '424314998029015309'
+last_updated_timestamp: 1766793723190
+model_id: m-3676f462defd4c6ab6844205099a0f9a
+model_type: null
+name: best_knn_model
+source_run_id: 21fd14fd1ed3404da1f208efa6c62f57
+status: 2
+status_message: null

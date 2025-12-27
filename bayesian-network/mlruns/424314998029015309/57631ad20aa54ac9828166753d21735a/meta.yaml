@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/user/OneDrive/Documentos/GitHub/alzheimer-disease-prediction/bayesian-network/mlruns/424314998029015309/57631ad20aa54ac9828166753d21735a/artifacts
+deleted_time: 1766792773286
+end_time: 1766781359364
+entry_point_name: ''
+experiment_id: '424314998029015309'
+lifecycle_stage: deleted
+run_id: 57631ad20aa54ac9828166753d21735a
+run_name: adventurous-owl-766
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766781359291
+status: 3
+tags: []
+user_id: user

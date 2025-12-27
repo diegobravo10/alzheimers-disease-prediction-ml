@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/user/OneDrive/Documentos/GitHub/alzheimer-disease-prediction/bayesian-network/mlruns/424314998029015309/9a309525e53a485482480395c2835cce/artifacts
+deleted_time: 1766794107472
+end_time: 1766793263388
+entry_point_name: ''
+experiment_id: '424314998029015309'
+lifecycle_stage: deleted
+run_id: 9a309525e53a485482480395c2835cce
+run_name: peaceful-lamb-68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766793263300
+status: 3
+tags: []
+user_id: user

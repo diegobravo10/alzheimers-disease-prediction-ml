@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/user/OneDrive/Documentos/GitHub/alzheimer-disease-prediction/bayesian-network/mlruns/424314998029015309/f52732d8a23545e884d430d007e8ac1f/artifacts
+deleted_time: 1766792773314
+end_time: 1766781361833
+entry_point_name: ''
+experiment_id: '424314998029015309'
+lifecycle_stage: deleted
+run_id: f52732d8a23545e884d430d007e8ac1f
+run_name: agreeable-grouse-960
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766781361765
+status: 3
+tags: []
+user_id: user

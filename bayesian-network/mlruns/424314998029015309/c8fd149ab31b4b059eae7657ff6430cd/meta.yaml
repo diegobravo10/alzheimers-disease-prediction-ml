@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/user/OneDrive/Documentos/GitHub/alzheimer-disease-prediction/bayesian-network/mlruns/424314998029015309/c8fd149ab31b4b059eae7657ff6430cd/artifacts
+deleted_time: 1766794107468
+end_time: 1766793263781
+entry_point_name: ''
+experiment_id: '424314998029015309'
+lifecycle_stage: deleted
+run_id: c8fd149ab31b4b059eae7657ff6430cd
+run_name: calm-bee-882
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766793263702
+status: 3
+tags: []
+user_id: user

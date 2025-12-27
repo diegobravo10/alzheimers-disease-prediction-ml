@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/user/OneDrive/Documentos/GitHub/alzheimer-disease-prediction/bayesian-network/mlruns/424314998029015309/eab198bcd72844ed946c6ad261d1832a/artifacts
+end_time: 1766793719194
+entry_point_name: ''
+experiment_id: '424314998029015309'
+lifecycle_stage: active
+run_id: eab198bcd72844ed946c6ad261d1832a
+run_name: hilarious-sloth-468
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766793719111
+status: 3
+tags: []
+user_id: user

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/user/OneDrive/Documentos/GitHub/alzheimer-disease-prediction/bayesian-network/mlruns/424314998029015309/572f302a3e78481f9fdd81a68478be2b/artifacts
+deleted_time: 1766794107510
+end_time: 1766792710188
+entry_point_name: ''
+experiment_id: '424314998029015309'
+lifecycle_stage: deleted
+run_id: 572f302a3e78481f9fdd81a68478be2b
+run_name: luminous-smelt-479
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766792710117
+status: 3
+tags: []
+user_id: user

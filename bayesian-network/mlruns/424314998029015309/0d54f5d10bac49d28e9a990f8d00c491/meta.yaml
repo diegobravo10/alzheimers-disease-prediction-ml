@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/user/OneDrive/Documentos/GitHub/alzheimer-disease-prediction/bayesian-network/mlruns/424314998029015309/0d54f5d10bac49d28e9a990f8d00c491/artifacts
+deleted_time: 1766792773293
+end_time: 1766781359741
+entry_point_name: ''
+experiment_id: '424314998029015309'
+lifecycle_stage: deleted
+run_id: 0d54f5d10bac49d28e9a990f8d00c491
+run_name: puzzled-squirrel-977
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766781359663
+status: 3
+tags: []
+user_id: user

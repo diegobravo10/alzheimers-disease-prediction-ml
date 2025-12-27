@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/user/OneDrive/Documentos/GitHub/alzheimer-disease-prediction/bayesian-network/mlruns/424314998029015309/e8ca2b828a3f4c1080e6170a102c3087/artifacts
+end_time: 1766794847563
+entry_point_name: ''
+experiment_id: '424314998029015309'
+lifecycle_stage: active
+run_id: e8ca2b828a3f4c1080e6170a102c3087
+run_name: likeable-pig-443
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766794847491
+status: 3
+tags: []
+user_id: user

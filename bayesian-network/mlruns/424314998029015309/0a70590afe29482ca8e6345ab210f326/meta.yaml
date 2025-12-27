@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/user/OneDrive/Documentos/GitHub/alzheimer-disease-prediction/bayesian-network/mlruns/424314998029015309/0a70590afe29482ca8e6345ab210f326/artifacts
+end_time: 1766794847420
+entry_point_name: ''
+experiment_id: '424314998029015309'
+lifecycle_stage: active
+run_id: 0a70590afe29482ca8e6345ab210f326
+run_name: shivering-dog-911
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766794847354
+status: 3
+tags: []
+user_id: user

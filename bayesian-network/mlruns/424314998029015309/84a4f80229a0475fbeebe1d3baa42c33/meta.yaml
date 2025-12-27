@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/user/OneDrive/Documentos/GitHub/alzheimer-disease-prediction/bayesian-network/mlruns/424314998029015309/84a4f80229a0475fbeebe1d3baa42c33/artifacts
+deleted_time: 1766792773329
+end_time: 1766781363038
+entry_point_name: ''
+experiment_id: '424314998029015309'
+lifecycle_stage: deleted
+run_id: 84a4f80229a0475fbeebe1d3baa42c33
+run_name: silent-flea-482
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766781362965
+status: 3
+tags: []
+user_id: user

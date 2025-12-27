@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/user/OneDrive/Documentos/GitHub/alzheimer-disease-prediction/bayesian-network/mlruns/424314998029015309/ce8a04dd6a524109b59bf2d5930ba368/artifacts
+end_time: 1766793717658
+entry_point_name: ''
+experiment_id: '424314998029015309'
+lifecycle_stage: active
+run_id: ce8a04dd6a524109b59bf2d5930ba368
+run_name: angry-rook-921
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766793717576
+status: 3
+tags: []
+user_id: user

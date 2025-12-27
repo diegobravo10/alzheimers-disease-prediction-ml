@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/user/OneDrive/Documentos/GitHub/alzheimer-disease-prediction/bayesian-network/mlruns/424314998029015309/37477acaf304484b83b6fe0aca942ac3/artifacts
+end_time: 1766793717531
+entry_point_name: ''
+experiment_id: '424314998029015309'
+lifecycle_stage: active
+run_id: 37477acaf304484b83b6fe0aca942ac3
+run_name: rumbling-mink-296
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766793717454
+status: 3
+tags: []
+user_id: user

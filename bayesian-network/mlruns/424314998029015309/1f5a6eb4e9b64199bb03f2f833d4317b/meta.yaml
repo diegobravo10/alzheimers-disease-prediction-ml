@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/user/OneDrive/Documentos/GitHub/alzheimer-disease-prediction/bayesian-network/mlruns/424314998029015309/1f5a6eb4e9b64199bb03f2f833d4317b/artifacts
+deleted_time: 1766794119329
+end_time: 1766792707564
+entry_point_name: ''
+experiment_id: '424314998029015309'
+lifecycle_stage: deleted
+run_id: 1f5a6eb4e9b64199bb03f2f833d4317b
+run_name: gentle-bass-809
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766792707493
+status: 3
+tags: []
+user_id: user

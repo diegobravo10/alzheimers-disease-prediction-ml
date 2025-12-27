@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/user/OneDrive/Documentos/GitHub/alzheimer-disease-prediction/bayesian-network/mlruns/424314998029015309/cfb19bf68f0649e2a50dbbcd70fe0359/artifacts
+deleted_time: 1766794107456
+end_time: 1766793264800
+entry_point_name: ''
+experiment_id: '424314998029015309'
+lifecycle_stage: deleted
+run_id: cfb19bf68f0649e2a50dbbcd70fe0359
+run_name: awesome-gull-89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766793264724
+status: 3
+tags: []
+user_id: user

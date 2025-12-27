@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/user/OneDrive/Documentos/GitHub/alzheimer-disease-prediction/bayesian-network/mlruns/424314998029015309/39d18d756c4d4d31a6abe46e8e0f9660/artifacts
+deleted_time: 1766792773290
+end_time: 1766781359495
+entry_point_name: ''
+experiment_id: '424314998029015309'
+lifecycle_stage: deleted
+run_id: 39d18d756c4d4d31a6abe46e8e0f9660
+run_name: chill-colt-291
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766781359411
+status: 3
+tags: []
+user_id: user

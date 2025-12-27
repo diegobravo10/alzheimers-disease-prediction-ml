@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/user/OneDrive/Documentos/GitHub/alzheimer-disease-prediction/bayesian-network/mlruns/424314998029015309/d22000cc5c4d4b5cad61f375d3559c55/artifacts
+deleted_time: 1766792773338
+end_time: 1766781364027
+entry_point_name: ''
+experiment_id: '424314998029015309'
+lifecycle_stage: deleted
+run_id: d22000cc5c4d4b5cad61f375d3559c55
+run_name: colorful-zebra-401
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766781363953
+status: 3
+tags: []
+user_id: user

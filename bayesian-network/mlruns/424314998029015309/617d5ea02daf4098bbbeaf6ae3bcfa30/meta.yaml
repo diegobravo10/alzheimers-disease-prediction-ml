@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/user/OneDrive/Documentos/GitHub/alzheimer-disease-prediction/bayesian-network/mlruns/424314998029015309/617d5ea02daf4098bbbeaf6ae3bcfa30/artifacts
+end_time: 1766794847350
+entry_point_name: ''
+experiment_id: '424314998029015309'
+lifecycle_stage: active
+run_id: 617d5ea02daf4098bbbeaf6ae3bcfa30
+run_name: able-shrike-359
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766794847288
+status: 3
+tags: []
+user_id: user

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/user/OneDrive/Documentos/GitHub/alzheimer-disease-prediction/bayesian-network/mlruns/424314998029015309/5e355baddf774f35b7d4fbf05c978ea4/artifacts
+deleted_time: 1766792773322
+end_time: 1766781362689
+entry_point_name: ''
+experiment_id: '424314998029015309'
+lifecycle_stage: deleted
+run_id: 5e355baddf774f35b7d4fbf05c978ea4
+run_name: capricious-duck-14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766781362601
+status: 3
+tags: []
+user_id: user

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/user/OneDrive/Documentos/GitHub/alzheimer-disease-prediction/bayesian-network/mlruns/424314998029015309/5211faf1f75a4717a1e7846f0d90aeff/artifacts
+deleted_time: 1766794107464
+end_time: 1766793264293
+entry_point_name: ''
+experiment_id: '424314998029015309'
+lifecycle_stage: deleted
+run_id: 5211faf1f75a4717a1e7846f0d90aeff
+run_name: omniscient-skunk-541
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766793264214
+status: 3
+tags: []
+user_id: user

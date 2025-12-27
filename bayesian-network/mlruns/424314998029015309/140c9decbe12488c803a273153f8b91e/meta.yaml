@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/user/OneDrive/Documentos/GitHub/alzheimer-disease-prediction/bayesian-network/mlruns/424314998029015309/140c9decbe12488c803a273153f8b91e/artifacts
+end_time: 1766793717142
+entry_point_name: ''
+experiment_id: '424314998029015309'
+lifecycle_stage: active
+run_id: 140c9decbe12488c803a273153f8b91e
+run_name: skillful-skink-778
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766793717058
+status: 3
+tags: []
+user_id: user

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/user/OneDrive/Documentos/GitHub/alzheimer-disease-prediction/bayesian-network/mlruns/424314998029015309/a35aa65d5f034739bbf5543cc539a448/artifacts
+deleted_time: 1766794119310
+end_time: 1766792708918
+entry_point_name: ''
+experiment_id: '424314998029015309'
+lifecycle_stage: deleted
+run_id: a35aa65d5f034739bbf5543cc539a448
+run_name: melodic-croc-646
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766792708847
+status: 3
+tags: []
+user_id: user
