@@ -130,21 +130,13 @@ The overall system architecture consists of the following stages:
 - Analysis of metrics such as Accuracy, Precision, Recall, and F1-score.  
 - Comparison of model behavior and generalization capability.
 
+# What Was Achieved?
 
-  
+A set of machine learning and deep learning models was successfully developed and evaluated for the diagnosis of Alzheimer’s disease using a real clinical dataset that includes multiple demographic, cognitive, and lifestyle variables.
 
-  
-<img width="920" height="575" alt="Image" src="https://github.com/user-attachments/assets/16df07c6-487e-429d-8068-134d8402792f" />
+An exploratory data analysis (EDA) was conducted to understand the structure of the dataset, identify relevant patterns, and highlight the presence of class imbalance. Subsequently, data cleaning, transformation, and dimensionality reduction using PCA were applied, and their impact on model performance was evaluated.
 
-<img width="886" height="603" alt="Image" src="https://github.com/user-attachments/assets/a7765e95-bbb7-4e7f-9533-26eae959bd56" />
+Different modeling approaches were trained and compared, including classical machine learning models, probabilistic models (Naive Bayes), unsupervised techniques (K-Means), and neural networks, using evaluation metrics such as Accuracy, Precision, Recall, and F1-score. The results showed that tree-based and ensemble models (Random Forest, Gradient Boosting, and XGBoost) achieved the best performance, particularly when trained without applying PCA, while linear models exhibited more stable behavior when dimensionality reduction was applied.
 
-<img width="886" height="688" alt="Image" src="https://github.com/user-attachments/assets/e194b535-a145-4e52-b8a3-8ba14add6093" />
+Additionally, the generalization capability of the models was assessed through testing with unseen data (new samples), validating their applicability in scenarios closer to real clinical environments. Overall, the project identified the most effective techniques for this problem and provided a solid foundation to support the early detection of Alzheimer’s disease through computational methods.
 
-## Resultados
-Gracias a la optimización y el uso de **MLflow** para monitorear el desempeño, se lograron las siguientes mejoras:
-
-| Métrica | Modelo Base | Modelo final |
-| :--- | :---: | :---: |
-| **Accuracy** | ~82% | **~79%** |
-| **Recall (Sensibilidad)** | **~57%** | **~69%** |
-| **F1-Score** | **~69%** | **~70%** |
